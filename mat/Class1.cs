@@ -8,5 +8,6 @@ namespace mat
 {
     internal class Class1
     {
+        string pepe;
     }
 }
