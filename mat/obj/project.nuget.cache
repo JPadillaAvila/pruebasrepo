@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "drsFNMN/PYXipRyWmKnxWo0dwRVFGZOb8KIAOcG6oMO6WSSySvdOmM+aG7GNuI/mNyeA2k1ikhRY74XxhepkmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JPSA\\source\\repos\\mat\\mat\\mat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JPSA\\.nuget\\packages\\docx\\3.0.1\\docx.3.0.1.nupkg.sha512",
+    "C:\\Users\\JPSA\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\JPSA\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\JPSA\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\JPSA\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
